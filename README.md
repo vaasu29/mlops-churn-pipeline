@@ -222,3 +222,19 @@ Visit http://127.0.0.1:5000 to compare experiment runs, view metrics, and manage
 
 **Vaasu Chandra**
 [![GitHub](https://img.shields.io/badge/GitHub-vaasu29-black?logo=github)](https://github.com/vaasu29)
+
+---
+
+## 📸 Screenshots
+
+### 🔍 Drift Detection Report
+![Drift Report](reports/drift_report.png)
+
+### ⚡ FastAPI Swagger UI
+![Swagger UI](reports/swagger_ui.png)
+
+### 🔬 API Endpoint Detail
+![Swagger GET](reports/swagger_get.png)
+
+### 📊 MLflow Dashboard
+![MLflow](reports/mlflow_dashboard.png)
