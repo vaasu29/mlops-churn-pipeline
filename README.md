@@ -212,7 +212,7 @@ Visit http://127.0.0.1:5000 to compare experiment runs, view metrics, and manage
 - [x] Drift detection with Evidently AI
 - [x] FastAPI serving endpoint
 - [x] Docker containerization
-- [ ] Airflow DAG for scheduled retraining
+- [x] Airflow DAG for scheduled retraining
 - [ ] CI/CD with GitHub Actions
 - [ ] Cloud deployment (AWS/Azure)
 
