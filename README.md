@@ -222,7 +222,7 @@ Visit http://127.0.0.1:5000 to compare experiment runs, view metrics, and manage
 
 **Vaasu Chandra**
 [![GitHub](https://img.shields.io/badge/GitHub-vaasu29-black?logo=github)](https://github.com/vaasu29)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaasu%20Chandra-blue?logo=linkedin)](https://www.linkedin.com/in/vaasuchandra)
 ---
 
 ## 📸 Screenshots
